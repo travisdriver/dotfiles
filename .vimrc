@@ -15,6 +15,8 @@ filetype plugin indent on
 let python_highlight_all=1
 set encoding=utf-8
 
+xnoremap p pgvy
+
 colorscheme eldar
 set guifont=Bitstream\ Vera\ Sans\ Mono:h14
 set number   
